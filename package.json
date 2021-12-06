@@ -2,7 +2,7 @@
   "name": "web-final",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ashley-Soderlund.github.io/web-final",
+  "homepage": "https://Ashley-Soderlund.github.io/web-kids-zone",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
