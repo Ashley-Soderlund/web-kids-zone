@@ -1,23 +1,30 @@
-import logo from './logo.svg';
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+
 import './App.css';
+import Homepage from './components/Homepage';
+import Places from './components/Places';
+import Animals from './components/Animals';
+import Shapes from './components/Shapes';
+import Count from './components/Count';
+import ABCs from './components/ABCs';
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+      <BrowserRouter basename="/web-kids-zone">
+        <Routes>
+          <Route exact path="/" element={ <Homepage /> } />
+          <Route exact path="/places" element={ <Places/>}/>
+          <Route exact path="/shapes" element={ <Shapes/>}/>
+          <Route exact path="/count" element={ <Count/>}/>
+          <Route exact path="/abc" element={ <ABCs/>}/>
+          <Route exact path="/animals" element={ <Animals/>}/>
+
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
