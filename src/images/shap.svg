@@ -1,0 +1,39 @@
+<svg id="Component_9_2" data-name="Component 9 – 2" xmlns="http://www.w3.org/2000/svg" width="1344.45" height="628.695" viewBox="0 0 1344.45 628.695">
+  <g id="Rectangle_7" data-name="Rectangle 7" transform="matrix(0.788, -0.616, 0.616, 0.788, 965.401, 205)" fill="#2de5f3" stroke="#707070" stroke-width="1">
+    <rect width="180" height="180" stroke="none"/>
+    <rect x="0.5" y="0.5" width="179" height="179" fill="none"/>
+  </g>
+  <text id="square" transform="matrix(0.788, -0.616, 0.616, 0.788, 1159.011, 329.968)" fill="#514c51" font-size="40" font-family="TempusSansITC, Tempus Sans ITC"><tspan x="0" y="0">square</tspan></text>
+  <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(621.967 53)" fill="#279513" stroke="#707070" stroke-width="1">
+    <ellipse cx="164.647" cy="168.5" rx="164.647" ry="168.5" stroke="none"/>
+    <ellipse cx="164.647" cy="168.5" rx="164.147" ry="168" fill="none"/>
+  </g>
+  <g id="Polygon_8" data-name="Polygon 8" transform="translate(705.118 403.511)" fill="#e9b91a">
+    <path d="M 272.4726867675781 161.9885101318359 L 1.074436664581299 161.9885101318359 L 136.7735595703125 0.7764692902565002 L 272.4726867675781 161.9885101318359 Z" stroke="none"/>
+    <path d="M 136.7735595703125 1.552841186523438 L 2.148834228515625 161.4885101318359 L 271.3982849121094 161.4885101318359 L 136.7735595703125 1.552841186523438 M 136.7735595703125 1.52587890625e-05 L 273.547119140625 162.4885101318359 L 0 162.4885101318359 L 136.7735595703125 1.52587890625e-05 Z" stroke="none" fill="#707070"/>
+  </g>
+  <g id="Path_10" data-name="Path 10" transform="translate(359 205)" fill="#4c44b2">
+    <path d="M 103.41259765625 377.9562377929688 L 0.5695958733558655 189.5 L 103.41259765625 1.043769001960754 L 206.2555999755859 189.5 L 103.41259765625 377.9562377929688 Z" stroke="none"/>
+    <path d="M 103.41259765625 2.08758544921875 L 1.13922119140625 189.5 L 103.41259765625 376.9124145507812 L 205.6859741210938 189.5 L 103.41259765625 2.08758544921875 M 103.41259765625 0 L 206.8251953125 189.5 L 103.41259765625 379 L 0 189.5 L 103.41259765625 0 Z" stroke="none" fill="#707070"/>
+  </g>
+  <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(0 45)" fill="#ee36d5" stroke="#707070" stroke-width="1">
+    <rect width="385" height="132" stroke="none"/>
+    <rect x="0.5" y="0.5" width="384" height="131" fill="none"/>
+  </g>
+  <g id="Ellipse_2" data-name="Ellipse 2" transform="matrix(0.469, 0.883, -0.883, 0.469, 141.694, 255)" fill="#eafa0d" stroke="#707070" stroke-width="1">
+    <ellipse cx="168.522" cy="80.239" rx="168.522" ry="80.239" stroke="none"/>
+    <ellipse cx="168.522" cy="80.239" rx="168.022" ry="79.739" fill="none"/>
+  </g>
+  <g id="Polygon_10" data-name="Polygon 10" transform="translate(1122 376)" fill="#e11111">
+    <path d="M 150.4100189208984 207.5 L 62.58989715576172 207.5 L 0.5000000596046448 146.8675689697266 L 0.5000262260437012 61.13237762451172 L 62.58994674682617 0.5000000596046448 L 150.4100189208984 0.5000262260437012 L 212.5 61.13240432739258 L 212.4999694824219 146.8675994873047 L 150.4100189208984 207.5 Z" stroke="none"/>
+    <path d="M 62.79354858398438 1 L 1 61.34295654296875 L 1 146.6570129394531 L 62.79351806640625 207 L 150.2064208984375 207 L 211.9999694824219 146.6570434570312 L 212 61.34298706054688 L 150.2064208984375 1 L 62.79354858398438 1 M 62.38627624511719 0 L 150.6136932373047 0 L 213 60.92179870605469 L 212.9999694824219 147.0782165527344 L 150.6136932373047 208 L 62.38624572753906 208 L 0 147.0781860351562 L 0 60.92178344726562 L 62.38627624511719 0 Z" stroke="none" fill="#707070"/>
+  </g>
+  <path id="Path_1" data-name="Path 1" d="M14.022,0c-31.55,65.565,0,92.236,0,92.236s72,37.653,46.895,95.7S84.45,294.623,84.45,294.623" transform="matrix(0.995, -0.105, 0.105, 0.995, 1228.5, 35.327)" fill="none" stroke="#810abd" stroke-width="3"/>
+  <text id="octagon" transform="matrix(0.719, 0.695, -0.695, 0.719, 1076.682, 522.066)" fill="#514c51" font-size="40" font-family="TempusSansITC, Tempus Sans ITC"><tspan x="0" y="0">octagon</tspan></text>
+  <text id="triangle" transform="translate(750.644 605)" fill="#514c51" font-size="40" font-family="TempusSansITC, Tempus Sans ITC"><tspan x="0" y="0">triangle</tspan></text>
+  <text id="oval" transform="translate(29 559)" fill="#514c51" font-size="40" font-family="TempusSansITC, Tempus Sans ITC"><tspan x="0" y="0">oval</tspan></text>
+  <text id="rectangle" transform="translate(207 219)" fill="#514c51" font-size="40" font-family="TempusSansITC, Tempus Sans ITC"><tspan x="0" y="0">rectangle</tspan></text>
+  <text id="rhombus" transform="translate(516.179 579.39) rotate(-60)" fill="#514c51" font-size="40" font-family="TempusSansITC, Tempus Sans ITC"><tspan x="0" y="0">rhombus</tspan></text>
+  <text id="circle" transform="translate(786.614 39)" fill="#514c51" font-size="40" font-family="TempusSansITC, Tempus Sans ITC"><tspan x="0" y="0">circle</tspan></text>
+  <path id="Path_2" data-name="Path 2" d="M371.927,1067.436C484,906.694,423.554,803.273,423.554,803.273" transform="translate(-98.994 -548.273)" fill="none" stroke="#1aaa67" stroke-width="3"/>
+</svg>
